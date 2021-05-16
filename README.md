@@ -18,5 +18,5 @@ Experienced Software Engineer with a demonstrated history of working in the info
 
 <img  align="left" title="javaScript"  alt="Devendra kushwaha, Master in Javascript"  width="50"  src="https://res.cloudinary.com/doucgezt9/image/upload/v1621163066/tech-logos/js_r9jw0d.png"/>
 <img  align="left" title="MongoDB"  alt="Devendra kushwaha, Master in MongoDB"  width="50"  src="https://res.cloudinary.com/doucgezt9/image/upload/v1621164688/tech-logos/mongodb_hc7pdh.png"/>
-<img  align="left" title="Apollographql"  alt="Devendra kushwaha, Master in Apollo gql"  width="50"  src="https://res.cloudinary.com/doucgezt9/image/upload/v1621164644/tech-logos/gql_n6o7lc.png"/>
+<img  align="left" title="Apollographql"  alt="Devendra kushwaha, Master in Apollo gql"  width="50"  src="https://res.cloudinary.com/doucgezt9/image/upload/v1621164644/tech-logos/gql_n6o7lc.png"/> <br/>
 <img  align="left" title="Node.js" alt="Devendra kushwaha, Master in Node js"  width="50"  src="https://res.cloudinary.com/doucgezt9/image/upload/v1621164638/tech-logos/nodejs_bfksj3.png"/>
