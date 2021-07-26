@@ -1,6 +1,7 @@
+
 #### Hey There I am Devendra kushwaha
 
-Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in React.js, Redux, JavaScript, SASS, Bootstrap,CSS3, LESS, and HTML5. Strong engineering professional with a MSc IT focused in IT
+I am a front-end full-stack developer
 
 <hr />
 
